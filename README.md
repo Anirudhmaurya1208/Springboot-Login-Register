@@ -117,7 +117,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 
 ### Notes:
-- **Application Structure**: The README assumes you are using standard Spring Boot practices (e.g., controller classes, views in `WEB-INF/views`, etc.).
+- **Application Structure**: The README assumes you are using standard Spring Boot practices (e.g., controller classes, views in `/views/`, etc.).
 - **Customizing**: Feel free to customize the endpoints or database schema to match your project structure.
 - **MySQL**: Make sure you have the `mysql-connector-java` dependency in your `pom.xml` file if you're using MySQL.
 
